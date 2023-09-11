@@ -135,4 +135,4 @@ To run the tests, use the following command:
 npm test
 ```
 
-This will run the automated tests using the Jest framework and the supertest package. The tests cover the following
+This will run the automated tests using the Jest framework and the supertest package.
